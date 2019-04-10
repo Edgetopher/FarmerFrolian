@@ -1,4 +1,4 @@
 package Jesus;
 
-public class CornEars {
+public class CornEars extends Crop {
 }
