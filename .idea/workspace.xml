@@ -191,6 +191,11 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Jesus_testCropRow - 2019.04.10 at 14h 32m 38s.xml">
+      <configuration name="Jesus.testCropRow" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
