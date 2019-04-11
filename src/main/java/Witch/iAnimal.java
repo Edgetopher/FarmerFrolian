@@ -2,11 +2,11 @@ package Witch;
 
 
 
-public interface Animal {
+public interface iAnimal {
+// a default method that takes in a param food and noise
+    void eat(iEdible e);
 
-    void eat(Edible e);
 
-    void NoiseMaker(Noise n);
-
+    void NoiseMaker(iNoise n);
 
 }

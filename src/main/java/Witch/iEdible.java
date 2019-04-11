@@ -1,4 +1,6 @@
 package Witch;
 
-public interface Edible {
+public interface iEdible {
+    void eat(iEdible e);
+
 }
